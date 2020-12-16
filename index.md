@@ -1,3 +1,14 @@
+<!doctype html>
+</head>
+  <body>
+
+      <header>
+        <h1>FEES!</h1>
+        <p></p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Now Search for HCPCS..">
 
 <style type="text/css">
