@@ -1,4 +1,4 @@
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for HCPCS..">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Now Search for HCPCS..">
 
 <style type="text/css">
 	table.tableizer-table {
