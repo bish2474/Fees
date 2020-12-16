@@ -1,7 +1,4 @@
-</head>
-  <body>
-
-      <header>
+       <header>
         <h1>FEES!</h1>
         <p></p>
       </header>
